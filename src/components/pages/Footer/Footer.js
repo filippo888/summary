@@ -14,8 +14,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          I'm looking forward to continue devloping my skills by involving myself with ambitious projects!
-        </p>
+          I can't wait to continue developing my skills by getting involved in ambitious projects!</p>
         <p className='footer-subscription-text'>
           Here you can find my contact information.
         </p>
